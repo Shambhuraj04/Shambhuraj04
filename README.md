@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-🎓 I’m a B.E. Cpmputer Graduate from Dr.D.Y.Patil Institute of Technology, Pimpri .<br>
+🎓 I’m a B.E. Computer Graduate from Dr.D.Y.Patil Institute of Technology, Pimpri .<br>
 🔭 I’m currently working on Backend Development.<br>
 🌱 I’m currently learning React Js.<br>
 💞️ I’m looking to collaborate on new innovative projects.<br>
