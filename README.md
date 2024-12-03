@@ -16,8 +16,6 @@ You can click the Preview link to take a look at your changes.
 📫 How to reach me **shambhurajpdhanawade@gmail.com** <br>
 <div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shambhuraj04&" alt="shambhuraj04" /></p>
-
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shambhuraj04&show_icons=true&locale=en&layout=compact" alt="shambhuraj04" /></p><br><br><br><br><br><br><br><br>
 </div>
 <div>
