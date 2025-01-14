@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 🎓 I’m a B.E. Computer Graduate from Dr.D.Y.Patil Institute of Technology, Pimpri .<br>
 🔭 I’m currently working on Backend Development.<br>
-🌱 I’m currently learning React Js.<br>
+🌱 I’m currently learning React Js, Motoko, Internet Computer Blockchain, Web3 technologies.<br>
 💞️ I’m looking to collaborate on new innovative projects.<br>
-📫 How to reach me **shambhurajpdhanawade@gmail.com** <br>
+📫 Reach me @ **shambhurajpdhanawade@gmail.com** <br>
 <div>
 
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shambhuraj04&show_icons=true&locale=en&layout=compact" alt="shambhuraj04" /></p><br><br><br><br><br><br><br><br>
